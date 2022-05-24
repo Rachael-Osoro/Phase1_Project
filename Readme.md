@@ -31,7 +31,7 @@ Movie production budget and return of investment of the movies have a positive c
 ![](https://github.com/Rachael-Osoro/git_practice/blob/master/Photos/budget-ROI.png)
 
 A budget of between 200 and approximately 400 million seems to yield better returns.
-![](https://github.com/Rachael-Osoro/git_practice/blob/master/Photos/BUDGET-RETURNS.png
+![](https://github.com/Rachael-Osoro/git_practice/blob/master/Photos/BUDGET-RETURNS.png)
 
 Promote movies in foreign countries as movie grossing has remained higher than domestic gross income.
 ![](https://github.com/Rachael-Osoro/git_practice/blob/master/Photos/Average-Yearly-Income.png)
